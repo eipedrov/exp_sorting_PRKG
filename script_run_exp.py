@@ -16,7 +16,7 @@ Usage mode:
 3) all outputs are save in the file called execution_log.txt
 """
 
-BINARY_PROGRAM = "otimo"
+BINARY_PROGRAM = "main"
 INPUTS_FILE = "inputs"
 TIMES_RUN = 13
 PATH_FILES_INPUT_LIST = []
