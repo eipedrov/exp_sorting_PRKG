@@ -7,7 +7,7 @@ import shlex
 import subprocess
 import logging
 
-logging.basicConfig(level=logging.DEBUG, filename='run_exp_data.log', filemode='w', format='%(process)d - [%(asctime)s] : %(levelname)s -> %(message)s')
+logging.basicConfig(level=logging.DEBUG, filename='run_exp_data_merge.log', filemode='w', format='%(process)d - [%(asctime)s] : %(levelname)s -> %(message)s')
 
 """
 Usage mode:
@@ -16,7 +16,7 @@ Usage mode:
 3) all outputs are save in the file called execution_log.txt
 """
 
-BINARY_PROGRAM = "otimo"
+BINARY_PROGRAM = "Merge_sort"
 INPUTS_FILE = "inputs"
 TIMES_RUN = 13
 PATH_FILES_INPUT_LIST = []

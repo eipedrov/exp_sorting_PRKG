@@ -1,0 +1,1095 @@
+48 - [2023-04-16 23:36:16,212] : DEBUG -> Experiment script executed
+48 - [2023-04-16 23:36:16,213] : DEBUG -> Listing input files to the program
+48 - [2023-04-16 23:36:16,224] : DEBUG -> Running the program with each input 13 times
+48 - [2023-04-16 23:36:16,230] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 0
+48 - [2023-04-16 23:36:16,255] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:16,256] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,257] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000240 
+
+48 - [2023-04-16 23:36:16,257] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,258] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 1
+48 - [2023-04-16 23:36:16,277] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:16,278] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,279] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000120 
+
+48 - [2023-04-16 23:36:16,280] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,281] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 2
+48 - [2023-04-16 23:36:16,300] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:16,301] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,301] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,302] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,303] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 3
+48 - [2023-04-16 23:36:16,326] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:16,327] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,328] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,329] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,330] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 4
+48 - [2023-04-16 23:36:16,348] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:16,348] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,349] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000130 
+
+48 - [2023-04-16 23:36:16,350] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,351] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 5
+48 - [2023-04-16 23:36:16,372] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:16,373] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,374] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000130 
+
+48 - [2023-04-16 23:36:16,375] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,375] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 6
+48 - [2023-04-16 23:36:16,392] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:16,393] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,394] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,395] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,396] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 7
+48 - [2023-04-16 23:36:16,414] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:16,415] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,416] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,417] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,418] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 8
+48 - [2023-04-16 23:36:16,438] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:16,439] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,440] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000100 
+
+48 - [2023-04-16 23:36:16,440] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,441] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 9
+48 - [2023-04-16 23:36:16,458] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:16,459] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,460] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,460] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,461] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 10
+48 - [2023-04-16 23:36:16,481] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:16,481] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,482] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,483] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,484] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 11
+48 - [2023-04-16 23:36:16,502] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:16,503] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,504] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,505] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,506] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100cres.csv - Time 12
+48 - [2023-04-16 23:36:16,525] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:16,526] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,527] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000100 
+
+48 - [2023-04-16 23:36:16,528] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,533] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 0
+48 - [2023-04-16 23:36:16,555] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:16,556] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,557] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,558] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,558] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 1
+48 - [2023-04-16 23:36:16,575] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:16,576] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,577] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,578] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,579] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 2
+48 - [2023-04-16 23:36:16,597] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:16,598] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,599] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,600] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,601] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 3
+48 - [2023-04-16 23:36:16,617] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:16,618] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,619] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,620] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,621] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 4
+48 - [2023-04-16 23:36:16,641] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:16,642] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,643] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,644] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,645] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 5
+48 - [2023-04-16 23:36:16,663] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:16,664] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,665] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,667] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,667] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 6
+48 - [2023-04-16 23:36:16,686] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:16,687] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,687] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000100 
+
+48 - [2023-04-16 23:36:16,688] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,689] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 7
+48 - [2023-04-16 23:36:16,706] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:16,707] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,708] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+48 - [2023-04-16 23:36:16,709] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,710] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 8
+48 - [2023-04-16 23:36:16,731] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:16,732] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,733] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000240 
+
+48 - [2023-04-16 23:36:16,734] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,735] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 9
+48 - [2023-04-16 23:36:16,752] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:16,753] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,754] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000240 
+
+48 - [2023-04-16 23:36:16,755] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,756] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 10
+48 - [2023-04-16 23:36:16,773] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:16,773] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,774] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,775] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,776] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 11
+48 - [2023-04-16 23:36:16,793] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:16,794] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,795] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,796] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,797] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100desc.csv - Time 12
+48 - [2023-04-16 23:36:16,815] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:16,816] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,817] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000110 
+
+48 - [2023-04-16 23:36:16,818] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,823] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 0
+48 - [2023-04-16 23:36:16,839] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:16,840] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,841] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:16,841] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,842] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 1
+48 - [2023-04-16 23:36:16,861] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:16,862] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,863] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000330 
+
+48 - [2023-04-16 23:36:16,864] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,865] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 2
+48 - [2023-04-16 23:36:16,884] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:16,885] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,886] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000320 
+
+48 - [2023-04-16 23:36:16,887] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,888] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 3
+48 - [2023-04-16 23:36:16,905] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:16,906] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,907] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:16,908] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,909] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 4
+48 - [2023-04-16 23:36:16,926] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:16,927] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,928] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:16,928] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,929] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 5
+48 - [2023-04-16 23:36:16,948] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:16,948] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,949] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:16,950] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,951] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 6
+48 - [2023-04-16 23:36:16,970] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:16,971] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,972] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000320 
+
+48 - [2023-04-16 23:36:16,973] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,973] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 7
+48 - [2023-04-16 23:36:16,989] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:16,990] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,990] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:16,991] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:16,992] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 8
+48 - [2023-04-16 23:36:17,009] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:17,010] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,011] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:17,012] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,013] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 9
+48 - [2023-04-16 23:36:17,029] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:17,029] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,030] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:17,031] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,031] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 10
+48 - [2023-04-16 23:36:17,046] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:17,047] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,048] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:17,048] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,049] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 11
+48 - [2023-04-16 23:36:17,063] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:17,063] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,064] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000140 
+
+48 - [2023-04-16 23:36:17,065] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,065] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/100ran.csv - Time 12
+48 - [2023-04-16 23:36:17,079] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:17,080] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,080] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000150 
+
+48 - [2023-04-16 23:36:17,081] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,086] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 0
+48 - [2023-04-16 23:36:17,106] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:17,107] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,107] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013370 
+
+48 - [2023-04-16 23:36:17,108] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,109] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 1
+48 - [2023-04-16 23:36:17,128] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:17,129] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,130] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013230 
+
+48 - [2023-04-16 23:36:17,130] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,131] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 2
+48 - [2023-04-16 23:36:17,151] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:17,152] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,153] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013750 
+
+48 - [2023-04-16 23:36:17,154] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,155] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 3
+48 - [2023-04-16 23:36:17,183] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:17,184] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,185] : DEBUG -> 
+ Tempo de Execucao: ---> 0.029400 
+
+48 - [2023-04-16 23:36:17,185] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,186] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 4
+48 - [2023-04-16 23:36:17,206] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:17,206] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,207] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013210 
+
+48 - [2023-04-16 23:36:17,207] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,208] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 5
+48 - [2023-04-16 23:36:17,231] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:17,232] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,232] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013240 
+
+48 - [2023-04-16 23:36:17,233] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,234] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 6
+48 - [2023-04-16 23:36:17,253] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:17,254] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,255] : DEBUG -> 
+ Tempo de Execucao: ---> 0.014590 
+
+48 - [2023-04-16 23:36:17,255] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,256] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 7
+48 - [2023-04-16 23:36:17,275] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:17,276] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,276] : DEBUG -> 
+ Tempo de Execucao: ---> 0.014380 
+
+48 - [2023-04-16 23:36:17,277] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,277] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 8
+48 - [2023-04-16 23:36:17,297] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:17,298] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,299] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012150 
+
+48 - [2023-04-16 23:36:17,299] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,300] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 9
+48 - [2023-04-16 23:36:17,322] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:17,323] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,324] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013990 
+
+48 - [2023-04-16 23:36:17,324] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,325] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 10
+48 - [2023-04-16 23:36:17,344] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:17,344] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,345] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012710 
+
+48 - [2023-04-16 23:36:17,346] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,346] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 11
+48 - [2023-04-16 23:36:17,366] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:17,366] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,367] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013250 
+
+48 - [2023-04-16 23:36:17,368] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,368] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kcres.csv - Time 12
+48 - [2023-04-16 23:36:17,387] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:17,388] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,389] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013610 
+
+48 - [2023-04-16 23:36:17,390] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,394] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 0
+48 - [2023-04-16 23:36:17,412] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:17,413] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,414] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012530 
+
+48 - [2023-04-16 23:36:17,414] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,415] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 1
+48 - [2023-04-16 23:36:17,435] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:17,436] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,436] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012340 
+
+48 - [2023-04-16 23:36:17,437] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,438] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 2
+48 - [2023-04-16 23:36:17,457] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:17,458] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,458] : DEBUG -> 
+ Tempo de Execucao: ---> 0.011680 
+
+48 - [2023-04-16 23:36:17,459] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,459] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 3
+48 - [2023-04-16 23:36:17,476] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:17,477] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,477] : DEBUG -> 
+ Tempo de Execucao: ---> 0.011080 
+
+48 - [2023-04-16 23:36:17,478] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,479] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 4
+48 - [2023-04-16 23:36:17,497] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:17,498] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,498] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012960 
+
+48 - [2023-04-16 23:36:17,499] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,499] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 5
+48 - [2023-04-16 23:36:17,518] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:17,519] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,520] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013180 
+
+48 - [2023-04-16 23:36:17,520] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,521] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 6
+48 - [2023-04-16 23:36:17,542] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:17,543] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,543] : DEBUG -> 
+ Tempo de Execucao: ---> 0.029640 
+
+48 - [2023-04-16 23:36:17,544] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,545] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 7
+48 - [2023-04-16 23:36:17,563] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:17,564] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,564] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013200 
+
+48 - [2023-04-16 23:36:17,565] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,566] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 8
+48 - [2023-04-16 23:36:17,585] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:17,586] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,587] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012840 
+
+48 - [2023-04-16 23:36:17,587] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,588] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 9
+48 - [2023-04-16 23:36:17,609] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:17,610] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,611] : DEBUG -> 
+ Tempo de Execucao: ---> 0.012580 
+
+48 - [2023-04-16 23:36:17,611] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,612] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 10
+48 - [2023-04-16 23:36:17,630] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:17,630] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,631] : DEBUG -> 
+ Tempo de Execucao: ---> 0.011550 
+
+48 - [2023-04-16 23:36:17,632] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,632] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 11
+48 - [2023-04-16 23:36:17,654] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:17,654] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,655] : DEBUG -> 
+ Tempo de Execucao: ---> 0.013190 
+
+48 - [2023-04-16 23:36:17,655] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,656] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kdesc.csv - Time 12
+48 - [2023-04-16 23:36:17,676] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:17,677] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,678] : DEBUG -> 
+ Tempo de Execucao: ---> 0.011140 
+
+48 - [2023-04-16 23:36:17,678] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,682] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 0
+48 - [2023-04-16 23:36:17,702] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:17,703] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,703] : DEBUG -> 
+ Tempo de Execucao: ---> 0.018560 
+
+48 - [2023-04-16 23:36:17,704] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,704] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 1
+48 - [2023-04-16 23:36:17,724] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:17,725] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,726] : DEBUG -> 
+ Tempo de Execucao: ---> 0.018810 
+
+48 - [2023-04-16 23:36:17,726] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,727] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 2
+48 - [2023-04-16 23:36:17,747] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:17,747] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,748] : DEBUG -> 
+ Tempo de Execucao: ---> 0.019240 
+
+48 - [2023-04-16 23:36:17,748] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,749] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 3
+48 - [2023-04-16 23:36:17,772] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:17,772] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,773] : DEBUG -> 
+ Tempo de Execucao: ---> 0.019830 
+
+48 - [2023-04-16 23:36:17,774] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,775] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 4
+48 - [2023-04-16 23:36:17,794] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:17,794] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,795] : DEBUG -> 
+ Tempo de Execucao: ---> 0.020460 
+
+48 - [2023-04-16 23:36:17,796] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,796] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 5
+48 - [2023-04-16 23:36:17,816] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:17,817] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,817] : DEBUG -> 
+ Tempo de Execucao: ---> 0.017650 
+
+48 - [2023-04-16 23:36:17,818] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,818] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 6
+48 - [2023-04-16 23:36:17,837] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:17,837] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,838] : DEBUG -> 
+ Tempo de Execucao: ---> 0.018280 
+
+48 - [2023-04-16 23:36:17,839] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,839] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 7
+48 - [2023-04-16 23:36:17,859] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:17,859] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,860] : DEBUG -> 
+ Tempo de Execucao: ---> 0.021720 
+
+48 - [2023-04-16 23:36:17,861] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,861] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 8
+48 - [2023-04-16 23:36:17,885] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:17,886] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,886] : DEBUG -> 
+ Tempo de Execucao: ---> 0.021710 
+
+48 - [2023-04-16 23:36:17,887] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,888] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 9
+48 - [2023-04-16 23:36:17,911] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:17,912] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,913] : DEBUG -> 
+ Tempo de Execucao: ---> 0.045630 
+
+48 - [2023-04-16 23:36:17,913] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,914] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 10
+48 - [2023-04-16 23:36:17,937] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:17,938] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,939] : DEBUG -> 
+ Tempo de Execucao: ---> 0.022220 
+
+48 - [2023-04-16 23:36:17,940] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,940] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 11
+48 - [2023-04-16 23:36:17,964] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:17,965] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,965] : DEBUG -> 
+ Tempo de Execucao: ---> 0.021710 
+
+48 - [2023-04-16 23:36:17,966] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,966] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/10kran.csv - Time 12
+48 - [2023-04-16 23:36:17,986] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:17,987] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,987] : DEBUG -> 
+ Tempo de Execucao: ---> 0.019910 
+
+48 - [2023-04-16 23:36:17,988] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:17,993] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 0
+48 - [2023-04-16 23:36:18,008] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:18,009] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,009] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001330 
+
+48 - [2023-04-16 23:36:18,010] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,010] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 1
+48 - [2023-04-16 23:36:18,028] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:18,029] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,029] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002350 
+
+48 - [2023-04-16 23:36:18,030] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,030] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 2
+48 - [2023-04-16 23:36:18,044] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:18,044] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,045] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001080 
+
+48 - [2023-04-16 23:36:18,045] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,046] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 3
+48 - [2023-04-16 23:36:18,060] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:18,060] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,061] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000970 
+
+48 - [2023-04-16 23:36:18,062] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,062] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 4
+48 - [2023-04-16 23:36:18,076] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:18,076] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,077] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001080 
+
+48 - [2023-04-16 23:36:18,078] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,078] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 5
+48 - [2023-04-16 23:36:18,093] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:18,094] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,095] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001210 
+
+48 - [2023-04-16 23:36:18,096] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,096] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 6
+48 - [2023-04-16 23:36:18,110] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:18,110] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,111] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001550 
+
+48 - [2023-04-16 23:36:18,112] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,112] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 7
+48 - [2023-04-16 23:36:18,126] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:18,126] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,127] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001680 
+
+48 - [2023-04-16 23:36:18,127] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,128] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 8
+48 - [2023-04-16 23:36:18,142] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:18,143] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,143] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001010 
+
+48 - [2023-04-16 23:36:18,144] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,144] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 9
+48 - [2023-04-16 23:36:18,161] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:18,162] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,162] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002710 
+
+48 - [2023-04-16 23:36:18,163] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,163] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 10
+48 - [2023-04-16 23:36:18,179] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:18,180] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,181] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001090 
+
+48 - [2023-04-16 23:36:18,181] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,182] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 11
+48 - [2023-04-16 23:36:18,199] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:18,200] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,200] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001090 
+
+48 - [2023-04-16 23:36:18,201] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,202] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kcres.csv - Time 12
+48 - [2023-04-16 23:36:18,219] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:18,220] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,220] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001240 
+
+48 - [2023-04-16 23:36:18,221] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,225] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 0
+48 - [2023-04-16 23:36:18,243] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:18,244] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,244] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000980 
+
+48 - [2023-04-16 23:36:18,245] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,246] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 1
+48 - [2023-04-16 23:36:18,265] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:18,266] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,267] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001010 
+
+48 - [2023-04-16 23:36:18,269] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,269] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 2
+48 - [2023-04-16 23:36:18,291] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:18,291] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,292] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002810 
+
+48 - [2023-04-16 23:36:18,293] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,294] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 3
+48 - [2023-04-16 23:36:18,308] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:18,308] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,309] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000920 
+
+48 - [2023-04-16 23:36:18,310] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,311] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 4
+48 - [2023-04-16 23:36:18,328] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:18,329] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,330] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002360 
+
+48 - [2023-04-16 23:36:18,330] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,331] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 5
+48 - [2023-04-16 23:36:18,346] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:18,347] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,348] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000970 
+
+48 - [2023-04-16 23:36:18,348] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,349] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 6
+48 - [2023-04-16 23:36:18,369] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:18,370] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,371] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002350 
+
+48 - [2023-04-16 23:36:18,372] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,372] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 7
+48 - [2023-04-16 23:36:18,388] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:18,389] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,389] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001090 
+
+48 - [2023-04-16 23:36:18,390] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,391] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 8
+48 - [2023-04-16 23:36:18,407] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:18,408] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,409] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002660 
+
+48 - [2023-04-16 23:36:18,409] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,410] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 9
+48 - [2023-04-16 23:36:18,427] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:18,427] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,428] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002350 
+
+48 - [2023-04-16 23:36:18,429] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,430] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 10
+48 - [2023-04-16 23:36:18,446] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:18,446] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,447] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001320 
+
+48 - [2023-04-16 23:36:18,448] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,449] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 11
+48 - [2023-04-16 23:36:18,463] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:18,463] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,464] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001090 
+
+48 - [2023-04-16 23:36:18,465] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,466] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kdesc.csv - Time 12
+48 - [2023-04-16 23:36:18,481] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:18,482] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,482] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001090 
+
+48 - [2023-04-16 23:36:18,483] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,488] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 0
+48 - [2023-04-16 23:36:18,504] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:18,505] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,506] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001710 
+
+48 - [2023-04-16 23:36:18,507] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,507] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 1
+48 - [2023-04-16 23:36:18,524] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:18,524] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,525] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001790 
+
+48 - [2023-04-16 23:36:18,526] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,526] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 2
+48 - [2023-04-16 23:36:18,543] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:18,544] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,544] : DEBUG -> 
+ Tempo de Execucao: ---> 0.003700 
+
+48 - [2023-04-16 23:36:18,545] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,545] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 3
+48 - [2023-04-16 23:36:18,562] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:18,563] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,563] : DEBUG -> 
+ Tempo de Execucao: ---> 0.003700 
+
+48 - [2023-04-16 23:36:18,564] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,565] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 4
+48 - [2023-04-16 23:36:18,580] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:18,581] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,581] : DEBUG -> 
+ Tempo de Execucao: ---> 0.002020 
+
+48 - [2023-04-16 23:36:18,582] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,583] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 5
+48 - [2023-04-16 23:36:18,600] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:18,601] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,602] : DEBUG -> 
+ Tempo de Execucao: ---> 0.004080 
+
+48 - [2023-04-16 23:36:18,603] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,603] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 6
+48 - [2023-04-16 23:36:18,621] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:18,622] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,623] : DEBUG -> 
+ Tempo de Execucao: ---> 0.003720 
+
+48 - [2023-04-16 23:36:18,623] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,624] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 7
+48 - [2023-04-16 23:36:18,642] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:18,643] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,644] : DEBUG -> 
+ Tempo de Execucao: ---> 0.004060 
+
+48 - [2023-04-16 23:36:18,644] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,645] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 8
+48 - [2023-04-16 23:36:18,662] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:18,663] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,663] : DEBUG -> 
+ Tempo de Execucao: ---> 0.003700 
+
+48 - [2023-04-16 23:36:18,664] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,665] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 9
+48 - [2023-04-16 23:36:18,681] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:18,682] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,682] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001850 
+
+48 - [2023-04-16 23:36:18,683] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,684] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 10
+48 - [2023-04-16 23:36:18,698] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:18,698] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,699] : DEBUG -> 
+ Tempo de Execucao: ---> 0.001750 
+
+48 - [2023-04-16 23:36:18,699] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,700] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 11
+48 - [2023-04-16 23:36:18,716] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:18,717] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,718] : DEBUG -> 
+ Tempo de Execucao: ---> 0.004040 
+
+48 - [2023-04-16 23:36:18,718] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,719] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/1kran.csv - Time 12
+48 - [2023-04-16 23:36:18,735] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:18,736] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,737] : DEBUG -> 
+ Tempo de Execucao: ---> 0.003680 
+
+48 - [2023-04-16 23:36:18,737] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:18,741] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 0
+48 - [2023-04-16 23:36:19,139] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:19,140] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,141] : DEBUG -> 
+ Tempo de Execucao: ---> 0.845600 
+
+48 - [2023-04-16 23:36:19,142] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,143] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 1
+48 - [2023-04-16 23:36:19,527] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:19,528] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,529] : DEBUG -> 
+ Tempo de Execucao: ---> 0.854820 
+
+48 - [2023-04-16 23:36:19,530] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,531] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 2
+48 - [2023-04-16 23:36:19,959] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:19,960] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,961] : DEBUG -> 
+ Tempo de Execucao: ---> 1.027830 
+
+48 - [2023-04-16 23:36:19,962] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:19,964] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 3
+48 - [2023-04-16 23:36:20,437] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:20,438] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:20,439] : DEBUG -> 
+ Tempo de Execucao: ---> 0.860070 
+
+48 - [2023-04-16 23:36:20,440] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:20,441] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 4
+48 - [2023-04-16 23:36:20,907] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:20,908] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:20,908] : DEBUG -> 
+ Tempo de Execucao: ---> 0.862080 
+
+48 - [2023-04-16 23:36:20,909] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:20,910] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 5
+48 - [2023-04-16 23:36:21,259] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:21,259] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:21,260] : DEBUG -> 
+ Tempo de Execucao: ---> 0.767180 
+
+48 - [2023-04-16 23:36:21,261] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:21,262] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 6
+48 - [2023-04-16 23:36:21,680] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:21,681] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:21,681] : DEBUG -> 
+ Tempo de Execucao: ---> 0.998380 
+
+48 - [2023-04-16 23:36:21,682] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:21,682] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 7
+48 - [2023-04-16 23:36:22,002] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:22,002] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,003] : DEBUG -> 
+ Tempo de Execucao: ---> 0.821280 
+
+48 - [2023-04-16 23:36:22,003] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,004] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 8
+48 - [2023-04-16 23:36:22,315] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:22,316] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,317] : DEBUG -> 
+ Tempo de Execucao: ---> 0.797140 
+
+48 - [2023-04-16 23:36:22,317] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,318] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 9
+48 - [2023-04-16 23:36:22,686] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:22,687] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,688] : DEBUG -> 
+ Tempo de Execucao: ---> 0.773200 
+
+48 - [2023-04-16 23:36:22,689] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:22,690] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 10
+48 - [2023-04-16 23:36:23,092] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:23,092] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,093] : DEBUG -> 
+ Tempo de Execucao: ---> 0.938230 
+
+48 - [2023-04-16 23:36:23,094] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,095] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 11
+48 - [2023-04-16 23:36:23,443] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:23,444] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,445] : DEBUG -> 
+ Tempo de Execucao: ---> 0.871040 
+
+48 - [2023-04-16 23:36:23,446] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,446] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kcres.csv - Time 12
+48 - [2023-04-16 23:36:23,825] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:23,826] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,826] : DEBUG -> 
+ Tempo de Execucao: ---> 0.802720 
+
+48 - [2023-04-16 23:36:23,827] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:23,830] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 0
+48 - [2023-04-16 23:36:24,126] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:24,127] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,128] : DEBUG -> 
+ Tempo de Execucao: ---> 0.765990 
+
+48 - [2023-04-16 23:36:24,129] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,130] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 1
+48 - [2023-04-16 23:36:24,526] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:24,527] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,528] : DEBUG -> 
+ Tempo de Execucao: ---> 0.921610 
+
+48 - [2023-04-16 23:36:24,529] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,529] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 2
+48 - [2023-04-16 23:36:24,889] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:24,890] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,891] : DEBUG -> 
+ Tempo de Execucao: ---> 0.843880 
+
+48 - [2023-04-16 23:36:24,892] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:24,893] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 3
+48 - [2023-04-16 23:36:25,291] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:25,292] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:25,293] : DEBUG -> 
+ Tempo de Execucao: ---> 0.962740 
+
+48 - [2023-04-16 23:36:25,294] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:25,295] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 4
+48 - [2023-04-16 23:36:25,663] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:25,663] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:25,665] : DEBUG -> 
+ Tempo de Execucao: ---> 0.861220 
+
+48 - [2023-04-16 23:36:25,666] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:25,667] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 5
+48 - [2023-04-16 23:36:26,033] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:26,034] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,034] : DEBUG -> 
+ Tempo de Execucao: ---> 0.912200 
+
+48 - [2023-04-16 23:36:26,035] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,035] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 6
+48 - [2023-04-16 23:36:26,396] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:26,397] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,398] : DEBUG -> 
+ Tempo de Execucao: ---> 1.022060 
+
+48 - [2023-04-16 23:36:26,399] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,400] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 7
+48 - [2023-04-16 23:36:26,781] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:26,781] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,782] : DEBUG -> 
+ Tempo de Execucao: ---> 0.863480 
+
+48 - [2023-04-16 23:36:26,783] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:26,784] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 8
+48 - [2023-04-16 23:36:27,182] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:27,183] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,184] : DEBUG -> 
+ Tempo de Execucao: ---> 0.975250 
+
+48 - [2023-04-16 23:36:27,185] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,186] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 9
+48 - [2023-04-16 23:36:27,560] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:27,561] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,562] : DEBUG -> 
+ Tempo de Execucao: ---> 0.864470 
+
+48 - [2023-04-16 23:36:27,563] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,564] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 10
+48 - [2023-04-16 23:36:27,957] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:27,957] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,958] : DEBUG -> 
+ Tempo de Execucao: ---> 1.044290 
+
+48 - [2023-04-16 23:36:27,959] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:27,959] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 11
+48 - [2023-04-16 23:36:28,322] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:28,322] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:28,323] : DEBUG -> 
+ Tempo de Execucao: ---> 0.863760 
+
+48 - [2023-04-16 23:36:28,323] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:28,324] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kdesc.csv - Time 12
+48 - [2023-04-16 23:36:28,664] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:28,664] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:28,665] : DEBUG -> 
+ Tempo de Execucao: ---> 0.922380 
+
+48 - [2023-04-16 23:36:28,665] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:28,669] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 0
+48 - [2023-04-16 23:36:29,041] : DEBUG -> Program output: - Time 0
+48 - [2023-04-16 23:36:29,042] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,043] : DEBUG -> 
+ Tempo de Execucao: ---> 1.389440 
+
+48 - [2023-04-16 23:36:29,044] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,045] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 1
+48 - [2023-04-16 23:36:29,486] : DEBUG -> Program output: - Time 1
+48 - [2023-04-16 23:36:29,487] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,488] : DEBUG -> 
+ Tempo de Execucao: ---> 1.572770 
+
+48 - [2023-04-16 23:36:29,489] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,490] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 2
+48 - [2023-04-16 23:36:29,915] : DEBUG -> Program output: - Time 2
+48 - [2023-04-16 23:36:29,916] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,917] : DEBUG -> 
+ Tempo de Execucao: ---> 1.429000 
+
+48 - [2023-04-16 23:36:29,918] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:29,919] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 3
+48 - [2023-04-16 23:36:30,333] : DEBUG -> Program output: - Time 3
+48 - [2023-04-16 23:36:30,333] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:30,334] : DEBUG -> 
+ Tempo de Execucao: ---> 1.381350 
+
+48 - [2023-04-16 23:36:30,335] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:30,336] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 4
+48 - [2023-04-16 23:36:30,748] : DEBUG -> Program output: - Time 4
+48 - [2023-04-16 23:36:30,749] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:30,750] : DEBUG -> 
+ Tempo de Execucao: ---> 1.310430 
+
+48 - [2023-04-16 23:36:30,751] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:30,751] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 5
+48 - [2023-04-16 23:36:31,152] : DEBUG -> Program output: - Time 5
+48 - [2023-04-16 23:36:31,153] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:31,154] : DEBUG -> 
+ Tempo de Execucao: ---> 1.458080 
+
+48 - [2023-04-16 23:36:31,155] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:31,156] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 6
+48 - [2023-04-16 23:36:31,601] : DEBUG -> Program output: - Time 6
+48 - [2023-04-16 23:36:31,602] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:31,603] : DEBUG -> 
+ Tempo de Execucao: ---> 1.443060 
+
+48 - [2023-04-16 23:36:31,603] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:31,604] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 7
+48 - [2023-04-16 23:36:32,012] : DEBUG -> Program output: - Time 7
+48 - [2023-04-16 23:36:32,012] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,013] : DEBUG -> 
+ Tempo de Execucao: ---> 1.299290 
+
+48 - [2023-04-16 23:36:32,014] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,015] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 8
+48 - [2023-04-16 23:36:32,424] : DEBUG -> Program output: - Time 8
+48 - [2023-04-16 23:36:32,425] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,426] : DEBUG -> 
+ Tempo de Execucao: ---> 1.264660 
+
+48 - [2023-04-16 23:36:32,427] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,428] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 9
+48 - [2023-04-16 23:36:32,879] : DEBUG -> Program output: - Time 9
+48 - [2023-04-16 23:36:32,879] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,880] : DEBUG -> 
+ Tempo de Execucao: ---> 1.617090 
+
+48 - [2023-04-16 23:36:32,881] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:32,881] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 10
+48 - [2023-04-16 23:36:33,315] : DEBUG -> Program output: - Time 10
+48 - [2023-04-16 23:36:33,316] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:33,317] : DEBUG -> 
+ Tempo de Execucao: ---> 1.520160 
+
+48 - [2023-04-16 23:36:33,318] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:33,318] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 11
+48 - [2023-04-16 23:36:33,775] : DEBUG -> Program output: - Time 11
+48 - [2023-04-16 23:36:33,776] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:33,777] : DEBUG -> 
+ Tempo de Execucao: ---> 1.617050 
+
+48 - [2023-04-16 23:36:33,778] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:33,779] : DEBUG -> Running input: /mnt/e/Backup/Codigos_gerais/8-semestre/Analise_algoritmos/exp_sorting_PRKG/inputs/500kran.csv - Time 12
+48 - [2023-04-16 23:36:34,212] : DEBUG -> Program output: - Time 12
+48 - [2023-04-16 23:36:34,214] : DEBUG -> ---------------------------
+48 - [2023-04-16 23:36:34,215] : DEBUG -> 
+ Tempo de Execucao: ---> 1.529220 
+
+48 - [2023-04-16 23:36:34,216] : DEBUG -> ---------------------------
